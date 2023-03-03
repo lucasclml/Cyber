@@ -3,6 +3,7 @@
 ## Les côtés pratiques
 
 - Simplicité de personnalisation avec des outils comme élémentor.
+- Mise à jour régulièrent et automatiques.
 
 
 
@@ -10,7 +11,7 @@
 
 ## Les mauvais côtés
 
--
+- La structure du site est la même pour tout les utilisateurs donc le site est plus exposé aux vulnérabilitées.
 
 
 
